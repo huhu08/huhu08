@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huhu08
-- 👀 I’m interested in web development ,full stack,Angular,Php,Database
+- 👀 I’m interested in web development ,full stack,Wordpress,Angular,Php,Database
 - 📫 How to reach me hudaelzubair@hotmail.com
 
 <!---
